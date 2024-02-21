@@ -1,6 +1,6 @@
 # Proyecto_JSON
 
-A partir del fichero JSON Elden_Ring.json obtener la siguiente información:
+A partir del archivo Elden_Ring.json obtener la siguiente información:
 
 1. Listar información: Crear una función que liste los nombres de todos los aliados disponibles en el juego.
 
